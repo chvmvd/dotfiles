@@ -1,6 +1,6 @@
 {
+  // "workbench.colorTheme": "Default Light+",
   "workbench.colorTheme": "Default Dark+",
-  "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "[python]": {
     "editor.defaultFormatter": "ms-python.black-formatter"
@@ -25,7 +25,7 @@
       "env": {}
     }
   ],
-  "window.zoomLevel": 1,
+  "window.zoomLevel": 3,
   "dev.containers.defaultExtensions": [
     "eamodio.gitlens",
     "mhutchie.git-graph",
